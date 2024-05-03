@@ -1,2 +1,2 @@
 # DCNN_DE_SIBT
-An end-to-end deep convolutional neural network-based dose engine for seed implant brachytherapy
+This is the implementation of our paper "An end-to-end deep convolutional neural network-based dose engine for parotid gland cancer seed implant brachytherapy" published in Medical Physics.
